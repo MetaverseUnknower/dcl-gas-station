@@ -1,4 +1,6 @@
-# Decentraland scene
+# Decentraland Gas Station
+
+![Unknoco, Conveniently located in your localhost](/images/scene-thumbnail.png)
 
 This folder contains all the necessary files to launch a Decentraland scene.
 
